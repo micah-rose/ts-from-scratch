@@ -1,4 +1,4 @@
-var btn = document.querySelector("button")as HTMLButtonElement;
+var btn = document.querySelector("button") as HTMLButtonElement;
 var inputA = document.getElementById("num1")! as HTMLInputElement;
 var inputB = document.getElementById("num2")! as HTMLInputElement;
 
