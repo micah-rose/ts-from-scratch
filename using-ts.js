@@ -9,5 +9,3 @@ btn.addEventListener("click", function () {
     console.log(add(+inputA.value, +inputB.value));
 });
 console.log(add(+inputA.value, +inputB.value));
-
-//test comment to check GitHub commits
