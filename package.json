@@ -4,7 +4,8 @@
   "description": "TypeScript tutorial for practice.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "author": "Micah Lund",
   "license": "ISC",
