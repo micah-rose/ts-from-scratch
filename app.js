@@ -4,4 +4,5 @@ var person = {
     hobbies: ['Sports', 'Cooking']
 };
 var favoriteActivities;
+favoriteActivities = ['Sports', 1];
 console.log(person.name);
