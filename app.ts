@@ -5,6 +5,8 @@ const person = {
     role: [2, 'author']
 };
 
+person.role.push('admin');
+
 let favoriteActivities: string[];
 favoriteActivities = ['Sports'];
 
