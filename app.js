@@ -5,7 +5,7 @@ var person = {
     role: [2, 'author']
 };
 person.role.push('admin');
-//person.role[1] = 10;
+person.role[0] = 10;
 var favoriteActivities;
 favoriteActivities = ['Sports'];
 console.log(person.name);
