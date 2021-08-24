@@ -14,10 +14,6 @@ enum Role {
     ADMIN, READ_ONLY, AUTHOR
 }
 
-// const ADMIN = 0;
-// const READ_ONLY = 1;
-// const AUTHOR = 3;
-
 const person = {
     name: 'Max',
     age: 30,
