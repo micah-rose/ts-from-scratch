@@ -1,9 +1,4 @@
-function add(n1, n2, showResult, phrase) {
+function combine(n1, n2) {
     var result = n1 + n2;
-    if (showResult === true) {
-        console.log(phrase + result);
-    }
-    else {
-        return result;
-    }
+    return result;
 }
