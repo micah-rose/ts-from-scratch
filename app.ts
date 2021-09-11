@@ -9,6 +9,9 @@ function combine(
     } else {
         result = input1.toString() + input2.toString()
     }
+    if (resultConversion === 'as-number'){
+        return +result;
+    }
     return result;
 }
 
