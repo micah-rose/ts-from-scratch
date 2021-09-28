@@ -1,1 +1,3 @@
-//New app.ts file for next lesson.
+function add(n1, n2) {
+    return n1 + n2;
+}
