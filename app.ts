@@ -6,4 +6,4 @@ function printResult(num: number): void {
     console.log('Result: ' + num);
 }
 
-printResult(add(5, 2));
+console.log(printResult(add(5, 2)));
