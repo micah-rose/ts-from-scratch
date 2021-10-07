@@ -4,4 +4,5 @@ function add(n1, n2) {
 function printResult(num) {
     console.log('Result: ' + num);
 }
-console.log(printResult(add(5, 2)));
+printResult(add(5, 2));
+var someValue;
