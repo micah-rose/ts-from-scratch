@@ -8,4 +8,6 @@ function printResult(num: number): void {
 
 printResult(add(5, 2));
 
+let combineValues;
+
 // let someValue: undefined;
