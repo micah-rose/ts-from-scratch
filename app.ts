@@ -12,4 +12,6 @@ let combineValues;
 
 combineValues = add;
 
+console.log(combineValues(8, 8));
+
 // let someValue: undefined;
