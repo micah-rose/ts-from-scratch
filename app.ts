@@ -10,4 +10,6 @@ printResult(add(5, 2));
 
 let combineValues;
 
+combineValues = add;
+
 // let someValue: undefined;
