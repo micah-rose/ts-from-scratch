@@ -8,7 +8,7 @@ function printResult(num: number): void {
 
 printResult(add(5, 2));
 
-let combineValues;
+let combineValues: Function;
 
 combineValues = add;
 combineValues = 5;
