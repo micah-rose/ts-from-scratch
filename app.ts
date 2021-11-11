@@ -11,7 +11,8 @@ printResult(add(5, 2));
 let combineValues: Function;
 
 combineValues = add;
-combineValues = 5;
+combineValues = printResult;
+// combineValues = 5;
 
 console.log(combineValues(8, 8));
 
