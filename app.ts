@@ -11,7 +11,7 @@ printResult(add(5, 2));
 let combineValues: (a: number, b: number) => number;
 
 combineValues = add;
-combineValues = printResult;
+// combineValues = printResult;
 // combineValues = 5;
 
 console.log(combineValues(8, 8));
