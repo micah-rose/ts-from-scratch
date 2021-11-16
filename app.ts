@@ -7,7 +7,7 @@ function printResult(num: number): void {
 }
 
 function addAndHandle(n1: number, n2: number, cb) {
-    //function body
+    const result = n1 + n2;
 }
 
 printResult(add(5, 2));
